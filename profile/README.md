@@ -21,14 +21,10 @@ We work with teams at every point of the curve: the ones running their first exp
 
 Our work is organised around a journey map we use with every client — a shared picture of where you are and what comes next.
 
-```
-   ESTABLISH  ──────────▶  ENABLE  ──────────▶  SCALE
-   foundations              first value          repeatable delivery
-
-            ┌──────── BUILD ⇄ RUN ────────┐
-            │  ship it        operate it   │
-            └──────────────────────────────┘
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-journey-dark.svg">
+  <img src="assets/ai-journey-light.svg" alt="The GAIA AI journey: Establish (foundations) to Enable (first value) to Scale (repeatable delivery), with a continuous build and run loop inside every stage." width="100%">
+</picture>
 
 - **Establish** — data foundations, platform, and *governance & risk classification* before the first line of code.
 - **Enable** — a first use case delivered end to end, with evaluation and guardrails built in.
