@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 376" width="900" height="376" role="img" aria-label="The GAIA AI journey: three stages — Establish (foundations), Enable (first value), Scale (repeatable delivery) — with a continuous build and run loop operating within every stage.">
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="30" y="34" width="210" height="104" rx="12" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+<circle cx="60" cy="64" r="14" fill="#122421" stroke="#2c5b54" stroke-width="1.25"/>
+<text x="60" y="69" text-anchor="middle" font-size="13" font-weight="700" fill="#4bc7ae">1</text>
+<text x="84" y="70" font-size="17" font-weight="700" letter-spacing="0.6" fill="#e6edf3">ESTABLISH</text>
+<text x="50" y="104" font-size="13" fill="#9198a1">foundations</text>
+<rect x="345" y="34" width="210" height="104" rx="12" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+<circle cx="375" cy="64" r="14" fill="#122421" stroke="#2c5b54" stroke-width="1.25"/>
+<text x="375" y="69" text-anchor="middle" font-size="13" font-weight="700" fill="#4bc7ae">2</text>
+<text x="399" y="70" font-size="17" font-weight="700" letter-spacing="0.6" fill="#e6edf3">ENABLE</text>
+<text x="365" y="104" font-size="13" fill="#9198a1">first value</text>
+<rect x="660" y="34" width="210" height="104" rx="12" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+<circle cx="690" cy="64" r="14" fill="#122421" stroke="#2c5b54" stroke-width="1.25"/>
+<text x="690" y="69" text-anchor="middle" font-size="13" font-weight="700" fill="#4bc7ae">3</text>
+<text x="714" y="70" font-size="17" font-weight="700" letter-spacing="0.6" fill="#e6edf3">SCALE</text>
+<text x="680" y="104" font-size="13" fill="#9198a1">repeatable delivery</text>
+<line x1="254" y1="86" x2="329" y2="86" stroke="#e6edf3" stroke-width="1.75" marker-end="url(#ah)"/>
+<text x="292.5" y="76" text-anchor="middle" font-size="10.5" fill="#9198a1">risk classified</text>
+<line x1="569" y1="86" x2="644" y2="86" stroke="#e6edf3" stroke-width="1.75" marker-end="url(#ah)"/>
+<text x="607.5" y="76" text-anchor="middle" font-size="10.5" fill="#9198a1">value proven</text>
+<line x1="135" y1="138" x2="135" y2="172" stroke="#444c56" stroke-width="1.25" stroke-dasharray="4 4"/>
+<line x1="450" y1="138" x2="450" y2="172" stroke="#444c56" stroke-width="1.25" stroke-dasharray="4 4"/>
+<line x1="765" y1="138" x2="765" y2="172" stroke="#444c56" stroke-width="1.25" stroke-dasharray="4 4"/>
+<rect x="30" y="172" width="840" height="180" rx="14" fill="#11161d" stroke="#444c56" stroke-width="1.25" stroke-dasharray="5 5"/>
+<text x="52" y="200" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#9198a1">WITHIN EVERY STAGE</text>
+<rect x="220" y="232" width="170" height="76" rx="10" fill="#161b22" stroke="#2c5b54" stroke-width="1.5"/>
+<text x="305" y="264" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="0.8" fill="#4bc7ae">BUILD</text>
+<text x="305" y="286" text-anchor="middle" font-size="12.5" fill="#9198a1">ship it</text>
+<rect x="510" y="232" width="170" height="76" rx="10" fill="#161b22" stroke="#2c5b54" stroke-width="1.5"/>
+<text x="595" y="264" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="0.8" fill="#4bc7ae">RUN</text>
+<text x="595" y="286" text-anchor="middle" font-size="12.5" fill="#9198a1">operate it</text>
+<path d="M392,258 Q450,232 506,258" fill="none" stroke="#4bc7ae" stroke-width="1.75" marker-end="url(#aha)"/>
+<text x="450" y="224" text-anchor="middle" font-size="11" fill="#4bc7ae">release</text>
+<path d="M508,286 Q450,312 400,286" fill="none" stroke="#4bc7ae" stroke-width="1.75" marker-end="url(#aha)"/>
+<text x="450" y="334" text-anchor="middle" font-size="11" fill="#4bc7ae">telemetry &amp; evals</text>
+</g>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4bc7ae"/></marker></defs>
+</svg>
